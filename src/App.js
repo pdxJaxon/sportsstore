@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {Component} from 'react';
 import {SportsStoreDataStore} from "./data/DataStore";
 import {Provider} from "react-redux";
 import {BrowserRouter as Router, Route,Switch,Redirect}
